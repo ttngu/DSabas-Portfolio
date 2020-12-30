@@ -1,3 +1,4 @@
+
 .navbar-center {
     position: relative;
     left: 50%;
@@ -8,6 +9,10 @@
     color: black;
     font-family: 'Darker Grotesque', sans-serif;
     letter-spacing: 7px;
+}
+
+.container {
+    scroll-behavior: smooth;
 }
 
 .logo-heading {
