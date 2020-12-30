@@ -6,9 +6,9 @@
     width: 15rem;
 }
 
-/* .about-text {
-    float: left;
-} */
+.about-text {
+    margin-top: 1.5rem;
+}
 
 .carousel {
     margin-bottom: 2rem;
