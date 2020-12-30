@@ -35,6 +35,14 @@ footer {
     font-size: xx-small;
 }
 
+
+body {
+    font-family: 'Darker Grotesque', sans-serif;
+    letter-spacing: 2px;
+}
+
 h5 {
     margin-top: 2rem;
+    font-family: 'Baskervville', serif;
+    font-size: larger;
 }
