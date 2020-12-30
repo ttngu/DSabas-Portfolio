@@ -1,6 +1,12 @@
-.nav-item {
-    margin-top: 2.5rem;
+.navbar-center {
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
 }
+
+/* .nav-item {
+    margin-top: 2.5rem;
+} */
 
 .nav-link {
     color: black;
@@ -8,6 +14,11 @@
     letter-spacing: 7px;
 }
 
+.logo-heading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .about-photo {
     float: left;
 }
