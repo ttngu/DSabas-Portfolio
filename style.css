@@ -11,6 +11,10 @@
     letter-spacing: 7px;
 }
 
+.navbar-toggler {
+    width: 100%;
+}
+
 body {
     font-family: 'Darker Grotesque', sans-serif;
     letter-spacing: 2px;
