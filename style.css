@@ -4,6 +4,8 @@
 
 .nav-link {
     color: black;
+    font-family: 'Darker Grotesque', sans-serif;
+    letter-spacing: 7px;
 }
 
 .about-photo {
@@ -31,4 +33,8 @@ footer {
     height: 2.5rem;
     margin-top: 2rem;
     font-size: xx-small;
+}
+
+h5 {
+    margin-top: 2rem;
 }
