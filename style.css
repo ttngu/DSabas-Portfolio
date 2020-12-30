@@ -1,3 +1,11 @@
+.nav-item {
+    margin-top: 2.5rem;
+}
+
+.nav-link {
+    color: black;
+}
+
 .about-photo {
     float: left;
 }
