@@ -1,0 +1,15 @@
+.about-photo {
+    float: left;
+}
+
+#about-photo {
+    width: 15rem;
+}
+
+/* .about-text {
+    float: left;
+} */
+
+.carousel {
+    margin-bottom: 2rem;
+}
