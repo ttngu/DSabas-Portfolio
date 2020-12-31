@@ -1,4 +1,11 @@
+header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    background: #ffff;
 
+}
 .navbar-center {
     position: relative;
     left: 50%;
@@ -78,3 +85,4 @@ footer {
     margin-top: 2rem;
     font-size: xx-small;
 }
+
