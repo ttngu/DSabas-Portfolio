@@ -4,7 +4,7 @@ const btnScrollToTop = document.querySelector("#btnScrollToTop");
 btnScrollToTop.addEventListener("click", function() {
     console.log("click!");
     window.scrollTo({
-        top: 60,
+        top: 0,
         left: 0,
         behavior: "smooth"
     });
